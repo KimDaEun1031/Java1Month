@@ -1,0 +1,57 @@
+import java.util.Scanner;
+
+public class Ex05_0910 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//5-9
+		Scanner s = new Scanner(System.in);
+		int a;
+		
+		System.out.printf("1 ~ 4 ¡ﬂø° º±≈√«œººø‰! ");
+		a = s.nextInt();
+		
+		switch (a) {
+		case 1:
+			System.out.println("1¿ª º±≈√«ﬂ¥Ÿ.");
+			break;
+		case 2:
+			System.out.println("2¿ª º±≈√«ﬂ¥Ÿ.");
+			break;
+		case 3:
+			System.out.println("3¿ª º±≈√«ﬂ¥Ÿ.");
+			break;
+		case 4:
+			System.out.println("4¿ª º±≈√«ﬂ¥Ÿ.");
+			break;
+		default :
+			System.out.println("¿ÃªÛ«— ∞… º±≈√«ﬂ¥Ÿ!");
+		}
+		
+		
+		//5-10
+		int year;
+		
+		System.out.print("√‚ª˝ø¨µµ∏¶ ¿‘∑¬«œººø‰ : ");
+		year = s.nextInt();
+		
+		switch (year % 12) {
+		case 0 : System.out.println("ø¯º˛¿Ã∂Ï"); break;
+		case 1 : System.out.println("¥ﬂ∂Ï"); break;
+		case 2 : System.out.println("∞≥∂Ï"); break;
+		case 3 : System.out.println("µ≈¡ˆ∂Ï"); break;
+		case 4 : System.out.println("¡„∂Ï"); break;
+		case 5 : System.out.println("º“∂Ï"); break;
+		case 6 : System.out.println("»£∂˚¿Ã∂Ï"); break;		
+		case 7 : System.out.println("≈‰≥¢∂Ï"); break;
+		case 8 : System.out.println("øÎ∂Ï"); break;
+		case 9 : System.out.println("πÏ∂Ï"); break;
+		case 10 : System.out.println("∏ª∂Ï"); break;
+		case 11 : System.out.println("æÁ∂Ï"); break;
+		
+		}
+		
+
+	}
+
+}

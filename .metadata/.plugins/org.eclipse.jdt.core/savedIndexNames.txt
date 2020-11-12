@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\kimde\OneDrive\πŸ≈¡ »≠∏È\.metadata\.plugins\org.eclipse.jdt.core
+1574843208.index
+1611258261.index
+2421865678.index
+2120916949.index

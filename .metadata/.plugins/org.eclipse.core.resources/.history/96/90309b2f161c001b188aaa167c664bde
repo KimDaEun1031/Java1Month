@@ -1,0 +1,11 @@
+package debug;
+
+public class person {
+	private String name;
+	private int age;
+	private int phonNumber;
+	private Gendertype gender;
+	
+	
+	
+}

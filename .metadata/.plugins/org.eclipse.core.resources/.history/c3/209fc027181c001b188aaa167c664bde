@@ -1,0 +1,36 @@
+package debug;
+
+public class Person {
+	private String name;
+	private int age;
+	private int phonNumber;
+	private Gendertype gender;
+	public String getName() {
+		
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	public int getAge() {
+		return age;
+	}
+	public void setAge(int age) {
+		this.age = age;
+	}
+	public int getPhonNumber() {
+		return phonNumber;
+	}
+	public void setPhonNumber(int phonNumber) {
+		this.phonNumber = phonNumber;
+	}
+	public Gendertype getGender() {
+		return gender;
+	}
+	public void setGender(Gendertype gender) {
+		this.gender = gender;
+	}
+	
+	
+	
+}

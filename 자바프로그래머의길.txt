@@ -1,0 +1,16 @@
+개발자 중에서 이런식으로 선택하면 ->로 갈 확률이 높음   :  는 사용하게 된 언어 or 기술
+설계쪽
+웹 클라이언트 개발자 -> ux  :  UML(Unified Modeling Language)
+웹 서버 개발자 -> 애플리케이션 아키텍트 :  분석 설계 방법론(Unified Process) /CBD / ROA / SOA / Micro Service
+                                                      / 분산 아키텍쳐 Apache Kafka Akka / ESB(Enterprise Service Bus) / Proxy Server / 미들웨어
+애플리케이션 쪽은 공부 오지게 많이 해야된데..
+
+데이터베이스 개발자 -> 데이터 아키텍트  :  ERD(Entity-Releationship-Diagram)=데이터베이스 설계 / noSQL Big Data
+보완 
+
+네트워크 
+
+
+또
+개발자 중에서 
+프로젝트 관리자 :  프로젝트 관리 / 분석 설계 방법론(Unified Process)

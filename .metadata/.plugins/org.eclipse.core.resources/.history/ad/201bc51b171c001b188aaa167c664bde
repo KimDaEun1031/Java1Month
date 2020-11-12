@@ -1,0 +1,17 @@
+package debug;
+
+public class Debuging {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int count = 100;
+		
+		System.out.println(count);
+		
+		int count2 = count + 1;
+		
+		System.out.println(count2);
+		
+	}
+
+}
